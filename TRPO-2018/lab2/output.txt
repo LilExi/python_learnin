@@ -1,0 +1,4 @@
+Input:           ['some text 1999-12-01 31.01.2009 with time 13:30:00 and email test@gmail.com']
+Date:            ['1999-12-01', '31.01.2009']
+Date and time:   ['1999-12-01', '31.01.2009', '13:30:00']
+Email:           ['test@gmail.com']
